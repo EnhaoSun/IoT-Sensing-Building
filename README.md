@@ -2,6 +2,8 @@
 
 This is my undergraduate thesis: IoT Sensing and Building
 
+Key words: Human activity recognition ([HAR](https://en.wikipedia.org/wiki/Activity_recognition)), [Arduino](https://www.arduino.cc/), [Raspberry Pi](https://www.raspberrypi.org/)
+
 Quick idea [here](Thesis/Presentation.pdf)
 
 Full thesis [here](Thesis/Thesis.pdf)
