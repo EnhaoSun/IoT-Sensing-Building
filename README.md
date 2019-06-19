@@ -2,7 +2,7 @@
 
 This is my undergraduate thesis: IoT Sensing and Building
 
-**Key words: **
+**Key words**:
 
 Human activity recognition ([HAR](https://en.wikipedia.org/wiki/Activity_recognition)), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [SVM](https://en.wikipedia.org/wiki/Support-vector_machine), [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree), 
 
